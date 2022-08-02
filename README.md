@@ -2,4 +2,4 @@
 
 ### Hello there, I'm Pup
 #### A developer learning python 🐍
-[![Pup's GitHub stats](https://github-readme-stats.vercel.app/api?username=xepupp&theme=github_dark)](https://github.com/xepup)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=xepupp&theme=github_dark">
